@@ -17,8 +17,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <h2> Check me out! 🔎 </h2>
     <ul> 
-        <li><a href='https://drive.google.com/file/d/1Ru4L_4bEFxZXYcFC_wgqFUvOlhdopgRq/view?usp=sharing'> Resume 🇧🇷 </a></li>
-        <li><a href=''> Resume 🇺🇸🇬🇧 </a></li>
+        <li><a href='https://drive.google.com/file/d/1Ru4L_4bEFxZXYcFC_wgqFUvOlhdopgRq/view?usp=sharing'> Resume PT-BR 🇧🇷 </a></li>
+        <li><a href=''> Resume ENG 🇺🇸🇬🇧 </a></li>
         <li><a href='https://www.linkedin.com/in/luizwillner/'> LinkedIn </a></li>
     <ul>
 </div>
