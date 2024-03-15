@@ -18,7 +18,7 @@
     <h2> Check me out! 🔎 </h2>
     <ul> 
         <li><a href='https://drive.google.com/file/d/1Ru4L_4bEFxZXYcFC_wgqFUvOlhdopgRq/view?usp=sharing'> Resume PT-BR 🇧🇷 </a></li>
-        <li><a href=''> Resume ENG 🇺🇸🇬🇧 </a></li>
+        <li><a href='https://drive.google.com/file/d/1Lpy34hIcJa2kaj_g0YHIY3twrj6iffDq/view?usp=sharing'> Resume ENG 🇺🇸🇬🇧 </a></li>
         <li><a href='https://www.linkedin.com/in/luizwillner/'> LinkedIn </a></li>
     <ul>
 </div>
